@@ -8,8 +8,3 @@
   opacity: .6;
   transition: opacity .5s ease-in;
 }
-
-.link-decoration:hover .link-decoration__arrow {
-  transform: translate(5px, 0);
-  transition: transform .4s ease-in;
-}
